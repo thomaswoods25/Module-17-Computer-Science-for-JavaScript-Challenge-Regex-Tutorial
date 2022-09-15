@@ -1,10 +1,6 @@
 # Regex Tutorial Starter Code
 
-# Unit 18 NoSQL Homework: Workout Tracker
-
-## Overview 
-
-The NoSQL database is something other than a table. There are several different types of NoSQL databases, such as key-value and graph. In this unit we will learn MongoDB, a document-oriented NoSQL database. MongoDB documents correspond to a row, or record, in SQL, but unlike rows, documents are analogous to JSON objects. 
+# Unit 17. Computer Science for JavaScript Challenge: Regex Tutorial
 
 ## User Story
 
