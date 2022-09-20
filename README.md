@@ -1,6 +1,6 @@
 # Regex Tutorial Starter Code
 
-# Unit 17. Computer Science for JavaScript Challenge: Regex Tutorial
+# Unit 18. NO SQL Challenge Social Network API
 
 ## User Story
 
