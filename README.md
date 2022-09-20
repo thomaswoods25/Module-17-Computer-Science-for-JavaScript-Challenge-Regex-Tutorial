@@ -1,14 +1,10 @@
-# Regex Tutorial Starter Code
+# NoSQL Challenge Social Network API
 
-<<<<<<< HEAD
 # Unit 18 NoSQL Homework: 
 
 ## Overview 
 
 The NoSQL database is something other than a table. There are several different types of NoSQL databases, such as key-value and graph. In this unit we will learn MongoDB, a document-oriented NoSQL database. MongoDB documents correspond to a row, or record, in SQL, but unlike rows, documents are analogous to JSON objects. 
-=======
-# Unit 18. NO SQL Challenge Social Network API
->>>>>>> dbac81e1f27dea50780e3118eaed584215ac9155
 
 ## User Story
 
